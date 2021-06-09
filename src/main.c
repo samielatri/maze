@@ -59,8 +59,7 @@ void initializeWindow() {
 		renderer,
 		SDL_BLENDMODE_BLEND
 	)
-	
-	return TRUE;
+
 
 }
 
