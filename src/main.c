@@ -1,8 +1,15 @@
+/* main.c */
+
+/* headers */
+
+/* C standard API headers */
 #include <stdlib.h>
 #include <stdio.h>
 
+/* SDL headers */
 #include <SDL2/SDL.h>
 
+/* custom headers */
 #include "boolean.h"
 #include "constants.h"
 
@@ -204,6 +211,4 @@ int main(int argc, char* args[]) {
 	//puts("Program is stopping.\n");
 
 	return EXIT_SUCCESS;
-}
-
-
+} /* main.c */
