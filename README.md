@@ -1,12 +1,14 @@
-#installation : 
+# Maze 
+
+## Installation : 
 sudo apt-get install libsdl2-dev -y
 
-#makefile
-build
-run
-clean
+## Makefile
+- build
+- run
+- clean
 
-#architecture
-bin => executable files
-src => source code
+## file structure : 
+- bin => executable files
+- src => source code
 
